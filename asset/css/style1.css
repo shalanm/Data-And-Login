@@ -1,0 +1,52 @@
+body{
+  text-align: center;
+  font-family: 'comfortaa' ,cursive;
+  background: green;
+
+}
+.header{
+border-bottom: 1px solid #eee;
+width: 100%;
+padding: 15px 0px;
+background-color:red;
+}
+.Details{
+  text-align: right;
+
+  padding:10px 0px;
+  margin-right: 8px;
+  margin-top: 8px;
+  font-family:'comforta' , cursive;
+
+}
+#para{
+  line-height:200%;
+  word-wrap:break-word;
+  color:#000066;
+  text-align: justify;
+}
+
+a{
+  color:white;
+  text-decoration: none;
+}
+input[type="text"] , input[type="password"]  {
+display:block;
+padding:10px;
+width:300px;
+margin:20px auto;
+border:1px solid #eee;
+
+}
+input[type="submit"] {
+  background: #6CCC60;
+  color:white;
+  margin:20px auto;
+  padding:10px;
+  width:300px;
+
+}
+
+.sh{
+  margin-top: 15px;
+}
